@@ -1,28 +1,12 @@
-- Getting started
-
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
-
-- Customization
-
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+* [页游](web_game)
+    * [对接流程](web_game/页游对接流程)
+    * [对接文档](web_game/页游对接文档)
+* [手游](mobile_game/README)
+    * [U8对接](mobile_game/U8/)
+        * [Android游戏接入](mobile_game/U8/Android/Android游戏接入)
+        * [Android新渠道接入](mobile_game/U8/Android/Android新渠道接入)
+        * [IOS游戏接入](mobile_game/U8/IOS/IOS游戏接入)
+        * [IOS新渠道接入](mobile_game/U8/IOS/IOS新渠道接入)
+    * [妙酷](mobile_game/妙酷)
+* [H5游戏](h5_game)
+* [小游戏](mini_game)  
